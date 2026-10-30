@@ -1,5 +1,3 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0%3A064e3b%2C50%3A059669%2C100%3A10b981&height=190&section=header&text=Hi%20there%2C%20I'm%20citawlndr&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20Open-Source%20Contributor%20with%201%20public%20repositories.&descAlignY=60&descSize=16)
-
 # citawlndr ✨ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="64" height="64" alt="Coffee Steam" />
 
 > Modern open-source project by citawlndr.
